@@ -2,9 +2,6 @@ package SeleniumConcept;
 
 import java.util.Calendar;
 import java.util.Date;
-
-import javax.servlet.annotation.WebListener;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
